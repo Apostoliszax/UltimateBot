@@ -1,10 +1,12 @@
 import discord
 import random
 
+
 def read_token():
     with open("token.txt", "r") as f:
         lines = f.readlines()
-        return  lines[0].strip()
+        return lines[0].strip()
+
 
 token = read_token()
 
@@ -59,7 +61,13 @@ async def on_message(message):
         elif message.content.find("!dadjoke") != -1:
             await  message.channel.send(random.choice(dadJokes))
 
-
+    if message.content == "!help":
+        embed = discord.Embed(title="Hello Friend. Let me help", description="Here are all the commands you'll need")
+        embed.add_field(name="!hello", value="Say hello to your little friends")
+        embed.add_field(name="!users", value="You'll get to know just how many we are in here")
+        embed.add_field(name="!quote", value="Shows you some inspirational quotes to get out of your misery")
+        embed.add_field(name="!dadjoke", value="Tells a joke your dad would say to you. If he hadn't left you")
+        await message.channel.send(content=None, embed=embed)
 
 
 client.run(token)
