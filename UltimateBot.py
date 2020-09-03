@@ -1,6 +1,6 @@
 import discord
 import random
-#eisai vlakas
+
 def read_token():
     with open("token.txt", "r") as f:
         lines = f.readlines()
