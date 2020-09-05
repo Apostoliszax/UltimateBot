@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="64745878-227c-46ee-a4eb-864713eeab68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Discord Tutorial/Bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Discord Tutorial/stats.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectId" id="1gxx5VvheJeLGsgRcRXs64li1Aa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\apost\PycharmProjects\UltimateBot" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="UltimateBot" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="UltimateBot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UltimateBot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="64745878-227c-46ee-a4eb-864713eeab68" name="Default Changelist" comment="" />
+      <created>1599069861411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599069861411</updated>
+    </task>
+    <task id="LOCAL-00001" summary="git commit">
+      <created>1599156699322</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599156699322</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="180" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599320668882">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="180" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599320668882" />
+    <state x="720" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599137377970">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="720" y="331" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599137377970" />
+    <state x="677" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1599073119143">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="677" y="276" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599073119143" />
+    <state x="740" y="280" key="FileChooserDialogImpl" timestamp="1599156607052">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="280" key="FileChooserDialogImpl/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599156607052" />
+    <state x="834" y="423" key="Github.ShareDialog" timestamp="1599156622047">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="834" y="423" key="Github.ShareDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599156622047" />
+    <state x="752" y="223" key="Github.UntrackedFilesDialog" timestamp="1599137239864">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="752" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599137239864" />
+    <state width="949" height="287" key="GridCell.Tab.0.bottom" timestamp="1599166999365">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599166999365" />
+    <state width="949" height="287" key="GridCell.Tab.0.center" timestamp="1599166999364">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="287" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599166999364" />
+    <state width="949" height="287" key="GridCell.Tab.0.left" timestamp="1599166999364">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="287" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599166999364" />
+    <state width="949" height="287" key="GridCell.Tab.0.right" timestamp="1599166999365">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="287" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599166999365" />
+    <state width="949" height="352" key="GridCell.Tab.1.bottom" timestamp="1599165063371">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599165063371" />
+    <state width="949" height="352" key="GridCell.Tab.1.center" timestamp="1599165063371">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="352" key="GridCell.Tab.1.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599165063371" />
+    <state width="949" height="352" key="GridCell.Tab.1.left" timestamp="1599165063371">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="352" key="GridCell.Tab.1.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599165063371" />
+    <state width="949" height="352" key="GridCell.Tab.1.right" timestamp="1599165063371">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="949" height="352" key="GridCell.Tab.1.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599165063371" />
+    <state x="783" y="227" key="RollbackChangesDialog" timestamp="1599165055004">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="783" y="227" key="RollbackChangesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599165055004" />
+    <state x="461" y="170" key="SettingsEditor" timestamp="1599136857942">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="170" key="SettingsEditor/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599136857942" />
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2" timestamp="1599156743454">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="258" key="Vcs.Push.Dialog.v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599156743454" />
+    <state x="777" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1599165330044">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="777" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599165330044" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/UltimateBot.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
