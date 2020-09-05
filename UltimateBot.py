@@ -8,6 +8,7 @@ def read_token():
         return lines[0].strip()
 
 
+
 token = read_token()
 
 client = discord.Client()
@@ -22,8 +23,10 @@ async def on_member_join(member):
 
 @client.event
 async def on_message(message):
-    id = client.get_guild(750780023266476043)
+
     channels = ["commands"]
+
+    id = client.get_guild(750780023266476043)
 
     quotes = [
         "The greatest glory in living lies not in never falling, but in rising every time we fall. -Nelson Mandela",
@@ -55,7 +58,7 @@ async def on_message(message):
         if message.content.find("!hello") != -1:
             await message.channel.send(f"Hello {message.author.name}")
         elif message.content == "!users":
-            await message.channel.send(f"""There are {id.member_count} users in this server""")
+            await message.channel.send(f"""# of Members: {id.member_count}""")
         elif message.content.find("!quote") != -1:
             await  message.channel.send(random.choice(quotes))
         elif message.content.find("!dadjoke") != -1:
