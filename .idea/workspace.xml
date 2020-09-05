@@ -13,8 +13,8 @@
     <list default="true" id="64745878-227c-46ee-a4eb-864713eeab68" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Discord Tutorial/Bot.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Discord Tutorial/stats.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UltimateBot.py" beforeDir="false" afterPath="$PROJECT_DIR$/UltimateBot.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
