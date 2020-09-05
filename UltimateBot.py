@@ -62,7 +62,7 @@ async def on_message(message):
             await  message.channel.send(random.choice(dadJokes))
 
     if message.content == "!help":
-        embed = discord.Embed(title="Hello Friend. Let me help", description="Here are all the commands you'll need")
+        embed = discord.Embed(title="Hello . Let me help", description="Here are all the commands you'll need")
         embed.add_field(name="!hello", value="Say hello to your little friends")
         embed.add_field(name="!users", value="You'll get to know just how many we are in here")
         embed.add_field(name="!quote", value="Shows you some inspirational quotes to get out of your misery")
