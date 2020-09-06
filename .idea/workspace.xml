@@ -11,10 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64745878-227c-46ee-a4eb-864713eeab68" name="Default Changelist" comment="ok">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/UltimateBot.py" beforeDir="false" afterPath="$PROJECT_DIR$/UltimateBot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/token.txt" beforeDir="false" afterPath="$PROJECT_DIR$/token.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,17 +50,17 @@
   </component>
   <component name="RunManager">
     <configuration name="UltimateBot" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="UltimateBot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\apost\anaconda3\envs\tutorial\pythonw.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/UltimateBot.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -117,10 +115,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="ok" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="414" y="180" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599320668882">
+    <state x="414" y="180" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599389031642">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="414" y="180" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599320668882" />
+    <state x="414" y="180" width="1092" height="762" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599389031642" />
     <state x="720" y="331" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599137377970">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -141,22 +139,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="752" y="223" key="Github.UntrackedFilesDialog/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599137239864" />
-    <state width="949" height="287" key="GridCell.Tab.0.bottom" timestamp="1599323813528">
+    <state width="949" height="287" key="GridCell.Tab.0.bottom" timestamp="1599413388282">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599323813528" />
-    <state width="949" height="287" key="GridCell.Tab.0.center" timestamp="1599323813528">
+    <state width="949" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599413388282" />
+    <state width="949" height="287" key="GridCell.Tab.0.center" timestamp="1599413388282">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="287" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599323813528" />
-    <state width="949" height="287" key="GridCell.Tab.0.left" timestamp="1599323813528">
+    <state width="949" height="287" key="GridCell.Tab.0.center/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599413388282" />
+    <state width="949" height="287" key="GridCell.Tab.0.left" timestamp="1599413388281">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="287" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599323813528" />
-    <state width="949" height="287" key="GridCell.Tab.0.right" timestamp="1599323813528">
+    <state width="949" height="287" key="GridCell.Tab.0.left/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599413388281" />
+    <state width="949" height="287" key="GridCell.Tab.0.right" timestamp="1599413388282">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="949" height="287" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599323813528" />
+    <state width="949" height="287" key="GridCell.Tab.0.right/0.0.1920.1050/1920.0.1920.1050@0.0.1920.1050" timestamp="1599413388282" />
     <state width="949" height="352" key="GridCell.Tab.1.bottom" timestamp="1599165063371">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
